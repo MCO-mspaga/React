@@ -1,0 +1,7 @@
+
+
+              <div>
+            <h2> Click the link below to get started on your journey to uncover all the secrets of Star Wars.  </h2>
+
+              <Link to='/Form'> CLICK ME! </Link>
+            </div>
